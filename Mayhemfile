@@ -1,0 +1,5 @@
+project: h264bitstream
+target: h264bitstream
+
+cmds:
+  - cmd: /h264_analyze @@
