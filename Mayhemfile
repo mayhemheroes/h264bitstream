@@ -2,4 +2,4 @@ project: h264bitstream
 target: h264bitstream
 
 cmds:
-  - cmd: /h264_analyze @@
+  - cmd: /.libs/h264_analyze @@
